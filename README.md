@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Ignazio 👋
+
+I'm a <b>Software Developer</b> in the making.
+Ever since my early teenager years, I've been obsessed with Tech. I built my first PC at age 13 and kept upgrading it and my Hardware-related knowledge ever since. <br>
+At age <b>21</b> I fell in love with Software, and decided to become a <b>Full-Stack Software Developer</b>. I'm currently a <a href="https://github.com/zero-to-mastery">@zero-to-mastery</a> student.
 
 <!--
 **ignaziomarrone/ignaziomarrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
