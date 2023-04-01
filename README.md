@@ -15,6 +15,8 @@ My tools at the moment: <br>
 <li><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="20" height="20"> Node.js </li>
 <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React.js" width="20" height="18"> React.js </li>
 <li><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="20" height="20"> TypeScript </li>
+<li><img src="https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi" alt="Next.js" width="20" height="20"> Next.js </li>
+
 
 </b>
 </ul>
