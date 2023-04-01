@@ -1,8 +1,8 @@
 ### Hi there! I'm Ignazio 👋
 
-I'm a <b>Software Developer</b> in the making.
+I'm a <b>Web Developer</b>.
 Ever since my early teenager years, I've been obsessed with Tech. I built my first PC at age 13 and kept upgrading it and my Hardware-related knowledge ever since. <br>
-At age 20 I fell in love with Software, and decided to become a <b>Full-Stack Software Developer</b>. I'm a <a href="https://github.com/zero-to-mastery">Zero to Mastery</a> alumni.
+At age 20 I fell in love with Software, and decided to become a <b>Full-Stack Web Developer</b>. I'm a <a href="https://github.com/zero-to-mastery">Zero to Mastery</a> alumni.
 
 My tools at the moment: <br>
 <ul>
@@ -14,6 +14,8 @@ My tools at the moment: <br>
 <li><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="20" height="20"> JavaScript <br></li>
 <li><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="20" height="20"> Node.js </li>
 <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React.js" width="20" height="18"> React.js </li>
+<li><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="20" height="20"> TypeScript </li>
+
 </b>
 </ul>
   
