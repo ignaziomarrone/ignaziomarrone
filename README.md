@@ -2,7 +2,7 @@
 
 I'm a <b>Web Developer</b>.
 Ever since my early teenager years, I've been obsessed with Tech. I built my first PC at age 13 and kept upgrading it and my Hardware-related knowledge ever since. <br>
-At age 20 I fell in love with Software, and decided to become a <b>Full-Stack Web Developer</b>. I'm a <a href="https://github.com/zero-to-mastery">Zero to Mastery</a> alumni.
+I later fell in love with Software, and decided to become a <b>Web Developer</b>. I'm a <a href="https://github.com/zero-to-mastery">Zero to Mastery</a> alumni.
 
 My tools at the moment: <br>
 <ul>
