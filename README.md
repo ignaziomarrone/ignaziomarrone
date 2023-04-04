@@ -1,4 +1,4 @@
-### Hi there! I'm Ignazio 👋
+### Hi there! My name's Ignazio 👋
 
 I'm a <b>Web Developer</b>.
 Ever since my early teenager years, I've been obsessed with Tech. I built my first PC at age 13 and kept upgrading it and my Hardware-related knowledge ever since. <br>
